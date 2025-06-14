@@ -39,7 +39,8 @@ cloudflared tunnel run snackbot-tunnel
 Your API is now accessible via https://myapp.example.com 🎉
 
 
-............<h1>**WORKFLOW**<h1>......
+<h1> **WORKFLOW** <h1>
+  
 🧠 1. User Interaction
 User opens the SnackBot website.
 
